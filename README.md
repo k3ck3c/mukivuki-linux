@@ -5,7 +5,7 @@ Installation et utilisation de MukiVuki Chess Studio sous Linux avec Wine.
 Testé avec :
 
 - Debian 13
-- Wine Staging
+- Wine Staging 11-16
 - MukiVuki Windows 0.1.266 x64
 - préfixe Wine 64 bits dédié
 
