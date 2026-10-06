@@ -1,0 +1,7 @@
+#!/bin/sh
+
+export WINEPREFIX="${WINEPREFIX:-$HOME/.wine_muki}"
+
+exec wine \
+  "$WINEPREFIX/drive_c/Program Files/MukiVuki/MukiVuki.exe" \
+  "$@"
